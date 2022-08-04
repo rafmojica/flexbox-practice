@@ -44,6 +44,12 @@
     max-width: 800px;
 }
 
+.row-parent{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .title{
     border: 2px solid lightblue;
     height: 50px;
